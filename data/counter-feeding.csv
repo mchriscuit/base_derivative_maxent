@@ -1,0 +1,8 @@
+bat,0,1,bat;bac
+bat-a,0,1;B,bat-a;bac-a
+bat-i,1,1;A,bat-i;bac-i
+bat-a-i,2,1;B;A,bat-a-i;bac-a-i;bat--i;bac--i;bat--;bac--
+bak,0,2,bak;bac
+bak-a,0,2;B,bak-a;bac-a
+bak-i,0,2;A,bak-i;bac-i
+bak-a-i,2,2;A;B,bak-a-i;bac-a-i;bak--i;bac--i;bak--;bac--
